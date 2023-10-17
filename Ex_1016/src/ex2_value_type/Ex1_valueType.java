@@ -11,7 +11,8 @@ public class Ex1_valueType {
 		  	int   - 4byte	........... -21억 	~ 21억
 		  	long  - 8byte	........... -900경 	~ 900경
 	 실수형 : 	float - 4byte
-	  		double- 8byte
+	  		double- 8byte 
+	  		//1
 	  
 	  */
 	 
