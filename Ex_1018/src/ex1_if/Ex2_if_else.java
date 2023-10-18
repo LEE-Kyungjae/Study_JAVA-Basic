@@ -27,7 +27,7 @@ public class Ex2_if_else {
 		String over = "50이상의 수";
 		String less = "50미만의 수";
 		String result = ++n >= 50 ? over : less;
-		System.out.println(result);
+		System.out.println(result);//
 		System.out.println("----------");
 
 		int age = 30;
